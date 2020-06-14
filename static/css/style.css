@@ -1,7 +1,6 @@
 body {
-    background: lightpurple;
-    font: 18px Arial, sans-serif;
+   background: url(csstyle1.jpg);
 }
 h1 {
-    color: orange;
+    color: lightblue;
 }
