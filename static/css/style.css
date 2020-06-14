@@ -11,3 +11,7 @@ h1 {
     width: 200px;
     height: 1px;    
 }
+.button.-blue {
+  color: var(--color-snow);
+  background: var(--color-ocean);
+}
