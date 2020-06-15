@@ -49,7 +49,7 @@ $slides: 3;
 $typing-duration: 5s;
 $tab-letters: 16 23 12; //number of characters in each paragraph
 $slider-font-size: 3rem;
-$background: #FFCC00;
+$background: transparent;
 
 body {
   display: flex;
