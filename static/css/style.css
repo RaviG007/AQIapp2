@@ -5,7 +5,7 @@ input[type="submit"] {
     padding: 20px 60px;
     font-size: 15px;
     font-weight: 500;
-    background: transparent;
+    background: #f5fffa;
     cursor: pointer;
     display: inline-block;
     margin-right: 15px;
