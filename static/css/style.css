@@ -1,29 +1,3 @@
-body{
-    background:#2F3F51;
-    background-image: repeating-radial-gradient(
-        circle,
-        #283247 , #283247 45%,
-        transparent 45%, transparent 60%,
-        #283247 60%,#283247 100%
-
-        );
-    -webkit-background-size: 12px 12px;
-    background-size: 12px 12px;
-    margin: 30px;
-}
-
-.container {
-  margin: 10px auto;
-  text-align: center;
-  max-width: 980px;
-  width: 100%;
-  position: relative;
-  background: #fff;
-  padding: 50px;
-  border: .5rem solid #34495e;
-}
-/*common button css  */
-
 input[type="submit"] {
     border: 1px solid #0A3D5B;
     background-color: transparent;
