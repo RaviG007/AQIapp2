@@ -1,11 +1,11 @@
 input[type="submit"] {
     border: 1px solid #0A3D5B;
     background-color: #fffaf0;
-    color: #0A3D5B;
+    color: #ffffff;
     padding: 20px 60px;
     font-size: 15px;
     font-weight: 500;
-    background: #ffffff;
+    background: #5f9ea0;
     cursor: pointer;
     display: inline-block;
     margin-right: 15px;
