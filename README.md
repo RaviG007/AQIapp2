@@ -1,5 +1,5 @@
 Air-Quality-Index-Prediction
-Webapp to predict the Air Quality Index of a region given climate conditions.
+Webapp to predict the Air Quality Index of bangalore given climate conditions.
 
 Environment setup:
 
@@ -27,5 +27,5 @@ Used HTML and css frontend to make API calls to Flask REST API backend.
 Finally deployed on Heroku platform.
 You can enter various climate details for prdiction od AQI for Bangalore city. Finally, click submit button and get your results for Air Quality Index.
 
-Demo: link 1(for real time AQI)- https://aqiappcss.herokuapp.com/
-      link 2(Predicted AQI from 2013 to 2016- https://aqipredictiondeploy.herokuapp.com/
+Demo:1. For real time AQI- https://aqiappcss.herokuapp.com/
+2. Predicted AQI from 2013 to 2016- https://aqipredictiondeploy.herokuapp.com/
