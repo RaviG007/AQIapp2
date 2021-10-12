@@ -28,5 +28,5 @@ Used HTML and css frontend to make API calls to Flask REST API backend.
 Finally deployed on Heroku platform.
 You can enter various climate details for prdiction od AQI for Bangalore city. Finally, click submit button and get your results for Air Quality Index.
 
-Demo:1. For real time AQI- https://aqiappcss.herokuapp.com/
-2. Predicted AQI from 2013 to 2016- https://aqipredictiondeploy.herokuapp.com/
+AQI mpdel deployed- https://aqiapp2.herokuapp.com/
+
